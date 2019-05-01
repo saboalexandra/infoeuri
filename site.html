@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="viewport" content="user-scalable=yes, initial-scale=1, maximum-scale=2, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=medium-dpi" />
+	<link rel="stylesheet" type="text/css" href="css/jquery.mobile-1.3.2.min.css" />	
+        <link rel="stylesheet" type="text/css" href="css/index.css" />	
+        <title>Info E-uri</title>
+    </head>
+    <body>        
+
+	<div data-role="page" id="mainPage">
+	    <div data-theme="a" data-role="header">
+	    <a data-role="button" href="../" rel="external" data-icon="home" data-iconpos="left" class="ui-btn-left">
+		    Home
+		</a>
+		<a data-role="button" href="info.html" data-rel="dialog" data-transition="pop" data-icon="info" data-iconpos="left" class="ui-btn-right">
+		    Info
+		</a>
+		<h3>
+		    Info E-uri
+		</h3>
+	    </div>
+	    <div class="ui-body ui-body-c">
+		    <input id="search" type="search" placeholder="Introduceti numarul (fara E) sau denumirea aditivului">
+		    <ul id="suggestions" data-role="listview" data-inset="true"></ul>
+	    </div>
+	    <div data-role="content">
+		<div id="details" class="content-primary">		    
+                <div class="fb-like-box" data-href="https://www.facebook.com/infoeuri" data-colorscheme="light" data-show-faces="false" data-header="true" data-stream="false" data-show-border="true"></div>
+		</div>
+
+	    </div>
+	</div>
+
+    <script type="text/javascript" src="js/index.js"></script>
+	<script type="text/javascript" src="js/jquery-2.0.3.min.js"></script>
+	<script type="text/javascript" src="js/jquery.mobile-1.3.2.min.js"></script>			
+	<script type="text/javascript" src="js/jqm.autoComplete-1.5.2-min.js"></script>	
+        <script type="text/javascript">
+	    app.initialize();
+	    $("#mainPage").bind("pageshow", function(e) {					
+
+		var aditiveNames = new Array();
+		var aditiveIds = new Object();
+		$.getJSON( 'data/aditivi.json', null,
+			function ( jsonData ) {
+			    $.each( jsonData, function ( index, aditive ) {
+				aditiveNames.push( aditive.name );
+				aditiveIds[aditive.name] = aditive.id;
+			    } );			    
+			}
+		);	
+		
+		$("#search").autocomplete({
+			target: $('#suggestions'),
+			source: aditiveNames,			
+			minLength: 2,
+			matchFromStart: false,
+			callback: function(e) {
+				var $a = $(e.currentTarget);
+				$('#search').val($a.text());
+				$("#search").autocomplete('clear');
+				detailURL = 'detalii/' + aditiveIds[$a.text()] + '.html';				
+				
+				$.ajax({
+				    url: detailURL, 
+				    type: 'GET',
+				    dataType: 'html',
+
+				    success: function(data) {					
+					$('#details').html('<h2>' + $a.text() + '</h2>');
+					$('#search').val('');
+					$('#details').append(data);
+					$('#details').append('<div id="moreDetails" data-role="collapsible" data-content-theme="c" data-collapsed="true"><h3>Mai multe informatii</h3></div>').trigger("create");
+					$("#moreDetails").bind('expand', function() {
+					    if (!$('#moreDetails .ui-collapsible-content').html()) {						
+						moreDetailsURL = 'detalii/' + aditiveIds[$a.text()] + '_lung.html';
+						$.ajax({
+						    url: moreDetailsURL, 
+						    type: 'GET',
+						    dataType: 'html',
+
+						    success: function(data) {						    
+							$('#moreDetails .ui-collapsible-content').html(data).trigger("create");
+						    },
+
+						    error: function(jqxhr,textStatus,errorThrown) {alert('A intervenit o eroare')}
+						});
+					    }
+					});
+				    },				    				    
+				    
+				    error: function(jqxhr,textStatus,errorThrown) {alert('A intervenit o eroare')}
+				});
+			},			
+			dataHandler: function(data) {
+			    return data.slice(0,10);
+			}
+		});	
+		
+	    });
+	    
+        </script>
+    </body>
+</html>

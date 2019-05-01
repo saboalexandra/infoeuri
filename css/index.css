@@ -1,0 +1,112 @@
+/*
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ */
+* {
+    -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
+}
+
+body {
+    -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
+    -webkit-text-size-adjust: auto;             /* none prevents webkit from resizing text to fit */
+    -webkit-user-select: text;                  /* none prevents copy paste, to allow, change 'none' to 'text' */    
+    font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+    font-size: 1em;
+    height:100%;
+    margin:0px;
+    padding:0px;    
+    width:100%;
+}
+
+@media screen and (max-width: 480px){
+    .face {
+	width: 128px;
+	height: 128px;
+	float: right;	
+	margin-left: 20px;    
+    }
+}
+
+@media screen and (max-width: 280px){
+    .face {
+	width: 128px;
+	height: 128px;
+	float: none;
+	margin: 0px auto;
+    }
+}
+
+@media screen and (min-width: 480px){
+    .face {
+	width: 128px;
+	height: 128px;
+	float: left;
+	padding-right: 20px;
+	margin-right: 20px;
+	border-right: 1px solid #ddd;
+    }
+}
+
+.info {
+    background: url('../img/info.png') no-repeat;
+}
+
+.face-angel {
+    background: url('../img/face-angel.png') no-repeat;
+}
+
+.face-devil {
+    background: url('../img/face-devil.png') no-repeat;
+}
+
+.face-uncertain {
+    background: url('../img/face-uncertain.png') no-repeat;
+}
+
+h3.side-effects {
+	clear: both;
+	padding-top: 10px;
+}
+
+ul.titlelist {
+	padding: 15px;
+}
+
+ul.titlelist li strong {
+	color: red;
+	display: block;
+}
+
+ul.titlelist li {
+	padding-bottom: 10px;
+}
+
+strong.devil {
+	color: red;
+}
+
+strong.harmless {
+	color: #53A94B;
+}
+
+strong.uncertain {
+	color: #D3BE18;
+}
+
+h4.altname {
+    margin: 0
+} 

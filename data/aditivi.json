@@ -1,0 +1,3883 @@
+[
+    {
+	"name" : "E100",			    
+	"id" : "E100"
+    },    
+    {
+	"name" : "Curcumina",
+	"id" : "E100"			    
+    },
+    {
+	"name" : "E101",			    
+	"id" : "E101"
+    },    
+    {
+	"name" : "Riboflavina",
+	"id" : "E101"			    
+    },
+    {
+	"name" : "Vitamina B2",			    
+	"id" : "E101"
+    },    
+    {
+	"name" : "E140",
+	"id" : "E140"			    
+    },
+    {
+	"name" : "Clorofile",
+	"id" : "E140"
+    },
+    {
+	"name" : "Clorofiline",
+	"id" : "E140"
+    },
+    {
+	"name" : "Verde natural",
+	"id" : "E140"			    
+    },
+    {
+	"name" : "E141",			    
+	"id" : "E141"
+    },    
+    {
+	"name" : "Complecsi de cupru ai clorofilelor si clorofinelor",
+	"id" : "E141"			    
+    },     
+    {
+	"name" : "E153",			    
+	"id" : "E153"
+    },    
+    {
+	"name" : "Carbune vegetal",
+	"id" : "E153"			    
+    },
+    {
+	"name" : "E102",
+	"id" : "E102"
+    },    
+    {
+	"name" : "Tartrazina",
+	"id" : "E102"			    
+    },
+    {
+	"name" : "FD&C Yellow no 5",
+	"id" : "E102"			    
+    },
+    {
+	"name" : "E120",
+	"id" : "E120"
+    },    
+    {
+	"name" : "Cosenila",
+	"id" : "E120"
+    },
+    {
+	"name" : "Acid Carminic",
+	"id" : "E120"			    
+    },
+    {
+	"name" : "Carmin",
+	"id" : "E120"
+    },
+    {
+	"name" : "E123",
+	"id" : "E123"
+    },    
+    {
+	"name" : "Amarant",
+	"id" : "E123"
+    },
+    {
+	"name" : "FD&C red no 2",
+	"id" : "E123"
+    },
+    {
+	"name" : "E124",
+	"id" : "E124"
+    },
+    {
+	"name" : "Rosu Ponceau 4R",
+	"id" : "E124"
+    },
+    {
+	"name" : "Rosu Cosenila A",
+	"id" : "E124"
+    },
+    {
+	"name" : "FD&C red no 4",
+	"id" : "E124"
+    },
+    {
+	"name" : "E127",
+	"id" : "E127"
+    },
+    {
+	"name" : "Eritrozina",
+	"id" : "E127"
+    },
+    {
+	"name" : "FD&C red no 3",
+	"id" : "E127"
+    },
+    {
+	"name" : "E151",
+	"id" : "E151"
+    },
+    {
+	"name" : "Negru Brilliant BN",
+	"id" : "E151"
+    },
+    {
+	"name" : "Negru PN",
+	"id" : "E151"
+    },
+    {
+	"name" : "E155",
+	"id" : "E155"
+    },
+    {
+	"name" : "Brun HT",
+	"id" : "E155"
+    },
+    {
+	"name" : "Brun Chocolat HT",
+	"id" : "E155"
+    },
+    {
+	"name" : "Brown RS",
+	"id" : "E155"
+    },
+    {
+	"name" : "E210",
+	"id" : "E210"
+    },
+    {
+	"name" : "Acid benzoic",
+	"id" : "E210"
+    },
+    {
+	"name" : "E211",
+	"id" : "E211"
+    },
+    {
+	"name" : "Benzoat de sodiu",
+	"id" : "E211"
+    },
+    {
+	"name" : "E212",
+	"id" : "E212"
+    },
+    {
+	"name" : "Benzoat de potasiu",
+	"id" : "E212"
+    },
+    {
+	"name" : "E213",
+	"id" : "E213"
+    },
+    {
+	"name" : "Benzoat de calciu",
+	"id" : "E213"
+    },
+    {
+	"name" : "E214",
+	"id" : "E214"
+    },
+    {
+	"name" : "P-hidroxibenzoat de etil",
+	"id" : "E214"
+    },
+    {
+	"name" : "PHB-Ester",
+	"id" : "E214"
+    },
+    {
+	"name" : "Etilparaben",
+	"id" : "E214"
+    },
+    {
+	"name" : "Parahidroxibenzoat de etil",
+	"id" : "E214"
+    },
+    {
+	"name" : "E215",
+	"id" : "E215"
+    },
+    {
+	"name" : "Sarea de sodiu a p-hidroxibenzoatului de etil",
+	"id" : "E215"
+    },
+    {
+	"name" : "Sarea de sodiu a parahidroxibenzoatului de etil",
+	"id" : "E215"
+    },
+    {
+	"name" : "Derivat sodic al esterului etilic al acidului p-hidroxibenzoic",
+	"id" : "E215"
+    },
+    {
+	"name" : "E218",
+	"id" : "E218"
+	},
+	{
+	"name" : "P-hidroxibenzoat de metil",
+	"id" : "E218"
+	},
+	{
+	"name" : "Metilparaben",
+	"id" : "E218"
+	},
+	{
+	"name" : "Parahidroxibenzoat de metil",
+	"id" : "E218"
+	},
+	{
+	"name" : "PHB-E",
+	"id" : "E218"
+	},
+	{
+	"name" : "E219",
+	"id" : "E219"
+	},
+	{
+	"name" : "Sarea de sodiu a p-hidroxibenzoatului de metil",
+	"id" : "E219"
+	},
+	{
+	"name" : "Sarea de sodiu a parahidroxibenzoatului de metil",
+	"id" : "E219"
+	},
+	{
+	"name" : "Derivat sodic al esterului metilic al acidului p-hidroxibenzoic",
+	"id" : "E219"
+	},
+	{
+	"name" : "E220",
+	"id" : "E220"
+	},
+	{
+	"name" : "Dioxid de sulf",
+	"id" : "E220"
+	},
+	{
+	"name" : "E221",
+	"id" : "E221"
+	},
+	{
+	"name" : "Sulfit de sodiu",
+	"id" : "E221"
+	},
+	{
+	"name" : "E222",
+	"id" : "E222"
+	},
+	{
+	"name" : "Sulfit acid de sodiu",
+	"id" : "E222"
+	},
+	{
+	"name" : "Bisulfit de sodiu",
+	"id" : "E222"
+	},
+	{
+	"name" : "E223",
+	"id" : "E223"
+	},
+	{
+	"name" : "Metabisulfit de sodiu",
+	"id" : "E223"
+	},
+	{
+	"name" : "E224",
+	"id" : "E224"
+	},
+	{
+	"name" : "Metabisulfit de potasiu",
+	"id" : "E224"
+	},
+	{
+	"name" : "E226",
+	"id" : "E226"
+	},
+	{
+	"name" : "Sulfit de calciu",
+	"id" : "E226"
+	},
+	{
+	"name" : "E227",
+	"id" : "E227"
+	},
+	{
+	"name" : "Bisulfit de calciu",
+	"id" : "E227"
+	},
+	{
+	"name" : "E228",
+	"id" : "E228"
+	},
+	{
+	"name" : "Bisulfit de potasiu",
+	"id" : "E228"
+	},
+	{
+	"name" : "E242",
+	"id" : "E242"
+	},
+	{
+	"name" : "Dicarbonat de dimetil",
+	"id" : "E242"
+	},
+	{
+	"name" : "Pirocarbonat de dimetil",
+	"id" : "E242"
+	},
+	{
+	"name" : "DMDC",
+	"id" : "E242"
+	},
+	{
+	"name" : "Bicarbonat de dimetil",
+	"id" : "E242"
+	},
+	{
+	"name" : "Dimetil pirocarbonat",
+	"id" : "E242"
+	},
+	{
+	"name" : "E249",
+	"id" : "E249"
+	},
+	{
+	"name" : "Nitrit de potasiu",
+	"id" : "E249"
+	},
+	{
+	"name" : "E284",
+	"id" : "E284"
+	},
+	{
+	"name" : "Acid boric",
+	"id" : "E284"
+	},
+	{
+	"name" : "E285",
+	"id" : "E285"
+	},
+	{
+	"name" : "Tetraborat de sodiu",
+	"id" : "E285"
+	},
+	{
+	"name" : "Borax",
+	"id" : "E285"
+	},
+	{
+	"name" : "E310",
+	"id" : "E310"
+	},
+	{
+	"name" : "Galat de propil",
+	"id" : "E310"
+	},
+	{
+	"name" : "E311",
+	"id" : "E311"
+	},
+	{
+	"name" : "Galat de octil",
+	"id" : "E311"
+	},
+	{
+	"name" : "E312",
+	"id" : "E312"
+	},
+	{
+	"name" : "Galat de dodecil",
+	"id" : "E312"
+	},
+	{
+	"name" : "E320",
+	"id" : "E320"
+	},
+	{
+	"name" : "Butilhidroxianisol",
+	"id" : "E320"
+	},
+	{
+	"name" : "BHA",
+	"id" : "E320"
+	},
+	{
+	"name" : "E330",
+	"id" : "E330"
+	},
+	{
+	"name" : "Acid citric",
+	"id" : "E330"
+	},
+	{
+	"name" : "E407",
+	"id" : "E407"
+	},
+	{
+	"name" : "Caragenan",
+	"id" : "E407"
+	},
+	{
+	"name" : "Carrageenan",
+	"id" : "E407"
+	},
+	{
+	"name" : "E407b",
+	"id" : "E407"
+	},
+	{
+	"name" : "E407a",
+	"id" : "E407a"
+	},
+	{
+	"name" : "Alge marine Euchema prelucrate",
+	"id" : "E407a"
+	},
+	{
+	"name" : "Alge Euchema transformate",
+	"id" : "E407a"
+	},
+	{
+	"name" : "E432",
+	"id" : "E432"
+	},
+	{
+	"name" : "Monolaurat de polioxietilena sorbitan",
+	"id" : "E432"
+	},
+	{
+	"name" : "E433",
+	"id" : "E433"
+	},
+	{
+	"name" : "Monooleat de polioxietilena sorbitan",
+	"id" : "E433"
+	},
+	{
+	"name" : "E434",
+	"id" : "E434"
+	},
+	{
+	"name" : "Polioxietilen sorbitan monopalmitat",
+	"id" : "E434"
+	},
+	{
+	"name" : "Polisorbat 40",
+	"id" : "E434"
+	},
+	{
+	"name" : "Monopalmitat de polioxietilena sorbitan",
+	"id" : "E434"
+	},
+	{
+	"name" : "E435",
+	"id" : "E435"
+	},
+	{
+	"name" : "Polisorbat 60",
+	"id" : "E435"
+	},
+	{
+	"name" : "Polioxietilen sorbitan monostearat",
+	"id" : "E435"
+	},
+	{
+	"name" : "Monostearat de polioxietilena sorbitan",
+	"id" : "E435"
+	},
+	{
+	"name" : "E436",
+	"id" : "E436"
+	},
+	{
+	"name" : "Polisorbat 65",
+	"id" : "E436"
+	},
+	{
+	"name" : "Polioxietilen sorbitan tristearat",
+	"id" : "E436"
+	},
+	{
+	"name" : "Tristearat de polioxietilena sorbitan",
+	"id" : "E436"
+	},
+	{
+	"name" : "E517",
+	"id" : "E517"
+	},
+	{
+	"name" : "Sulfat de amoniu",
+	"id" : "E517"
+	},
+	{
+	"name" : "E621",
+	"id" : "E621"
+	},
+	{
+	"name" : "MSG",
+	"id" : "E621"
+	},
+	{
+	"name" : "Glutamat de sodiu",
+	"id" : "E621"
+	},
+	{
+	"name" : "Monoglutamat de sodiu",
+	"id" : "E621"
+	},
+	{
+	"name" : "Glutamat monosodic",
+	"id" : "E621"
+	},
+	{
+	"name" : "E950",
+	"id" : "E950"
+	},
+	{
+	"name" : "Acesulfam-K",
+	"id" : "E950"
+	},
+    {
+	"name" : "Acesulfam de potasiu",
+	"id" : "E950"
+	},
+	{
+	"name" : "Ace K",
+	"id" : "E950"
+	},
+	{
+	"name" : "Sweet One",
+	"id" : "E950"
+	},
+	{
+	"name" : "Sunett",
+	"id" : "E950"
+	},
+	{
+	"name" : "E951",
+	"id" : "E951"
+	},
+	{
+	"name" : "Aspartam",
+	"id" : "E951"
+	},
+	{
+	"name" : "Canderel",
+	"id" : "E951"
+	},
+	{
+	"name" : "Nutrasweet",
+	"id" : "E951"
+	},
+	{
+	"name" : "Equal",
+	"id" : "E951"
+	},
+	{
+	"name" : "E952",
+	"id" : "E952"
+	},
+	{
+	"name" : "Acid ciclamic si sarurile sale de sodiu si calciu",
+	"id" : "E952"
+	},
+	{
+	"name" : "Ciclamat",
+	"id" : "E952"
+	},
+	{
+	"name" : "E954",
+	"id" : "E954"
+	},
+	{
+	"name" : "Zaharina si sarurile ei de sodiu, potasiu, calciu",
+	"id" : "E954"
+	},
+	{
+	"name" : "E999",
+	"id" : "E999"
+	},
+	{
+	"name" : "Extract de Quillaia",
+	"id" : "E999"
+	},
+	{
+	"name" : "E1201",
+	"id" : "E1201"
+	},
+	{
+	"name" : "Polivinilpirolidona",
+	"id" : "E1201"
+	},
+	{
+	"name" : "Povidone",
+	"id" : "E1201"
+	},
+	{
+	"name" : "PVP",
+	"id" : "E1201"
+	},
+	{
+	"name" : "E1202",
+	"id" : "E1202"
+	},
+	{
+	"name" : "Polivinilpolipirolidona",
+	"id" : "E1202"
+	},
+	{
+	"name" : "PVPP",
+	"id" : "E1202"
+	},
+	{
+	"name" : "E1203",
+	"id" : "E1203"
+	},
+	{
+	"name" : "Polivinil alcool",
+	"id" : "E1203"
+	},
+	{
+	"name" : "E1204",
+	"id" : "E1204"
+	},
+	{
+	"name" : "Pululan",
+	"id" : "E1204"
+	},
+	{
+	"name" : "E160c",
+	"id" : "E160c"
+	},
+	{
+	"name" : "Extract de ardei rosu",
+	"id" : "E160c"
+	},
+	{
+	"name" : "Capsantina",
+	"id" : "E160c"
+	},
+	{
+	"name" : "Capsorubina",
+	"id" : "E160c"
+	},
+	{
+	"name" : "E160d",
+	"id" : "E160d"
+	},
+	{
+	"name" : "Licopen",
+	"id" : "E160d"
+	},
+	{
+	"name" : "E162",
+	"id" : "E162"
+	},
+	{
+	"name" : "Rosu sfecla",
+	"id" : "E162"
+	},
+	{
+	"name" : "Betanina",
+	"id" : "E162"
+	},
+	{
+	"name" : "E163",
+	"id" : "E163"
+	},
+	{
+	"name" : "Antocianine",
+	"id" : "E163"
+	},
+	{
+	"name" : "Antociane",
+	"id" : "E163"
+	},
+	{
+	"name" : "E170",
+	"id" : "E170"
+	},
+	{
+	"name" : "Carbonat de calciu",
+	"id" : "E170"
+	},
+	{
+	"name" : "170i",
+	"id" : "E170"
+	},
+	{
+	"name" : "170ii",
+	"id" : "E170"
+	},
+	{
+	"name" : "Carbonat acid de calciu",
+	"id" : "E170"
+	},
+	{
+	"name" : "E260",
+	"id" : "E260"
+	},
+	{
+	"name" : "Acid acetic",
+	"id" : "E260"
+	},
+	{
+	"name" : "E261",
+	"id" : "E261"
+	},
+	{
+	"name" : "Acetat de potasiu",
+	"id" : "E261"
+	},
+	{
+	"name" : "E262",
+	"id" : "E262"
+	},
+	{
+	"name" : "Acetat de sodiu",
+	"id" : "E262"
+	},
+	{
+	"name" : "E263",
+	"id" : "E263"
+	},
+	{
+	"name" : "Acetat de calciu",
+	"id" : "E263"
+	},
+	{
+	"name" : "E270",
+	"id" : "E270"
+	},
+	{
+	"name" : "Acid lactic",
+	"id" : "E270"
+	},
+	{
+	"name" : "E290",
+	"id" : "E290"
+	},
+	{
+	"name" : "Acid carbonic",
+	"id" : "E290"
+	},
+	{
+	"name" : "Dioxid de carbon",
+	"id" : "E290"
+	},
+	{
+	"name" : "E296",
+	"id" : "E296"
+	},
+	{
+	"name" : "Acid malic",
+	"id" : "E296"
+	},
+	{
+	"name" : "E297",
+	"id" : "E297"
+	},
+	{
+	"name" : "Acid fumaric",
+	"id" : "E297"
+	},
+	{
+	"name" : "E300",
+	"id" : "E300"
+	},
+	{
+	"name" : "Acid ascorbic",
+	"id" : "E300"
+	},
+	{
+	"name" : "E301",
+	"id" : "E301"
+	},
+	{
+	"name" : "Ascorbat de sodiu",
+	"id" : "E301"
+	},
+	{
+	"name" : "E302",
+	"id" : "E302"
+	},
+	{
+	"name" : "Ascorbat de calciu",
+	"id" : "E302"
+	},
+	{
+	"name" : "E304",
+	"id" : "E304"
+	},
+	{
+	"name" : "Esteri ai acidului ascorbic cu acizi grasi",
+	"id" : "E304"
+	},
+	{
+	"name" : "Palmitat de asocrbil",
+	"id" : "E304"
+	},
+	{
+	"name" : "Ascorbil palmitat",
+	"id" : "E304"
+	},
+	{
+	"name" : "E306",
+	"id" : "E306"
+	},
+	{
+	"name" : "Tocoferoli",
+	"id" : "E306"
+	},
+    {
+	"name" : "E307",
+	"id" : "E307"
+	},
+	{
+	"name" : "Alfa-tocoferol",
+	"id" : "E307"
+	},
+	{
+	"name" : "E308",
+	"id" : "E308"
+	},
+	{
+	"name" : "Gamma-tocoferol",
+	"id" : "E308"
+	},
+	{
+	"name" : "E309",
+	"id" : "E309"
+	},
+	{
+	"name" : "Delta-tocoferol",
+	"id" : "E309"
+	},
+	{
+	"name" : "E322",
+	"id" : "E322"
+	},
+	{
+	"name" : "Lecitina",
+	"id" : "E322"
+	},
+	{
+	"name" : "E325",
+	"id" : "E325"
+	},
+	{
+	"name" : "Lactat de sodiu",
+	"id" : "E325"
+	},
+	{
+	"name" : "E326",
+	"id" : "E326"
+	},
+	{
+	"name" : "Lactat de potasiu",
+	"id" : "E326"
+	},
+	{
+	"name" : "E327",
+	"id" : "E327"
+	},
+	{
+	"name" : "Lactat de calciu",
+	"id" : "E327"
+	},
+	{
+	"name" : "E331",
+	"id" : "E331"
+	},
+	{
+	"name" : "Citrati",
+	"id" : "E331"
+	},
+	{
+	"name" : "Citrat de sodiu",
+	"id" : "E331"
+	},
+	{
+	"name" : "E331i",
+	"id" : "E331"
+	},
+	{
+	"name" : "Citrat monosodic",
+	"id" : "E331"
+	},
+	{
+	"name" : "E331ii",
+	"id" : "E331"
+	},
+	{
+	"name" : "Citrat disodic",
+	"id" : "E331"
+	},
+	{
+	"name" : "E331iii",
+	"id" : "E331"
+	},
+	{
+	"name" : "Citrat trisodic",
+	"id" : "E331"
+	},
+	{
+	"name" : "E334",
+	"id" : "E334"
+	},
+	{
+	"name" : "Acid tartric",
+	"id" : "E334"
+	},
+	{
+	"name" : "E335",
+	"id" : "E335"
+	},
+	{
+	"name" : "Tartrati de sodiu",
+	"id" : "E335"
+	},
+	{
+	"name" : "E336",
+	"id" : "E336"
+	},
+	{
+	"name" : "Tartrati de potasiu",
+	"id" : "E336"
+	},
+	{
+	"name" : "E337",
+	"id" : "E337"
+	},
+	{
+	"name" : "Tartrat de sodiu si potasiu",
+	"id" : "E337"
+	},
+	{
+	"name" : "E350",
+	"id" : "E350"
+	},
+	{
+	"name" : "Malat de sodiu",
+	"id" : "E350"
+	},
+	{
+	"name" : "E350i",
+	"id" : "E350"
+	},
+	{
+	"name" : "Malat acid de sodiu",
+	"id" : "E350"
+	},
+	{
+	"name" : "E350ii",
+	"id" : "E350"
+	},
+	{
+	"name" : "E351",
+	"id" : "E351"
+	},
+	{
+	"name" : "Malat de potasiu",
+	"id" : "E351"
+	},
+	{
+	"name" : "E351i",
+	"id" : "E351"
+	},
+	{
+	"name" : "Malat acid de potasiu",
+	"id" : "E351"
+	},
+	{
+	"name" : "E351ii",
+	"id" : "E351"
+	},
+    {
+	"name" : "E352",
+	"id" : "E352"
+	},
+	{
+	"name" : "Malat de calciu",
+	"id" : "E352"
+	},
+	{
+	"name" : "E352i",
+	"id" : "E352"
+	},
+	{
+	"name" : "Malat acid de calciu",
+	"id" : "E352"
+	},
+	{
+	"name" : "E352ii",
+	"id" : "E352"
+	},
+	{
+	"name" : "E414",
+	"id" : "E414"
+	},
+	{
+	"name" : "Guma de acacia",
+	"id" : "E414"
+	},
+    {
+	"name" : "Guma arabica",
+	"id" : "E414"
+	},
+	{
+	"name" : "E422",
+	"id" : "E422"
+	},
+	{
+	"name" : "Glicerina",
+	"id" : "E422"
+	},
+	{
+	"name" : "Glicerol",
+	"id" : "E422"
+	},
+	{
+	"name" : "E440",
+	"id" : "E440"
+	},
+	{
+	"name" : "Pectina",
+	"id" : "E440"
+	},
+	{
+	"name" : "440i",
+	"id" : "E440"
+	},
+	{
+	"name" : "E440ii",
+	"id" : "E440"
+	},
+	{
+	"name" : "Pectat de sodiu",
+	"id" : "E440"
+	},
+	{
+	"name" : "E440iii",
+	"id" : "E440"
+	},
+	{
+	"name" : "Pectat de potasiu",
+	"id" : "E440"
+	},
+	{
+	"name" : "E440iv",
+	"id" : "E440"
+	},
+	{
+	"name" : "Pectat de amoniu",
+	"id" : "E440"
+	},
+	{
+	"name" : "E440b",
+	"id" : "E440"
+	},
+	{
+	"name" : "Pectina amidica",
+	"id" : "E440"
+	},
+	{
+	"name" : "E459",
+	"id" : "E459"
+	},
+	{
+	"name" : "Beta-ciclodextrina",
+	"id" : "E459"
+	},
+	{
+	"name" : "E460",
+	"id" : "E460"
+	},
+	{
+	"name" : "Celuloza",
+	"id" : "E460"
+	},
+	{
+	"name" : "E460i",
+	"id" : "E460"
+	},
+	{
+	"name" : "Celuloza cristalina",
+	"id" : "E460"
+	},
+	{
+	"name" : "E460ii",
+	"id" : "E460"
+	},
+	{
+	"name" : "Celuloza pulbere",
+	"id" : "E460"
+	},
+	{
+	"name" : "E469",
+	"id" : "E469"
+	},
+	{
+	"name" : "Carboximetil celuloza hidrolizata enzimatic",
+	"id" : "E469"
+	},
+	{
+	"name" : "Guma de celuloza hidrolizata enzimatic",
+	"id" : "E469"
+	},
+	{
+	"name" : "E471",
+	"id" : "E471"
+	},
+	{
+	"name" : "Mono- si digliceride ale acizilor grasi",
+	"id" : "E471"
+	},
+	{
+	"name" : "Gliceril monooleat",
+	"id" : "E471"
+	},
+	{
+	"name" : "Gliceril monopalmitat",
+	"id" : "E471"
+	},
+	{
+	"name" : "Gliceril monostearat",
+	"id" : "E471"
+	},
+	{
+	"name" : "Monoolein",
+	"id" : "E471"
+	},
+	{
+	"name" : "Monostearin",
+	"id" : "E471"
+	},
+	{
+	"name" : "Monopalmitin",
+	"id" : "E471"
+	},
+	{
+	"name" : "Glicer",
+	"id" : "E471"
+	},
+	{
+	"name" : "E472a",
+	"id" : "E472a"
+	},
+	{
+	"name" : "Esteri ai acidului acetic cu mono- si digliceridele acizilor grasi",
+	"id" : "E472a"
+	},
+	{
+	"name" : "Acetogliceride",
+	"id" : "E472a"
+	},
+	{
+	"name" : "Esteri acetici ai mono- si digliceridelor cu acizii grasi",
+	"id" : "E472a"
+	},
+	{
+	"name" : "E472b",
+	"id" : "E472b"
+	},
+	{
+	"name" : "Esteri ai acidului lactic cu mono- si digliceridele acizilor grasi",
+	"id" : "E472b"
+	},
+	{
+	"name" : "Lactogliceride",
+	"id" : "E472b"
+	},
+	{
+	"name" : "Esteri lactici ai mono- si digliceridelor cu acizii grasi",
+	"id" : "E472b"
+	},
+	{
+	"name" : "E472c",
+	"id" : "E472c"
+	},
+	{
+	"name" : "Esteri citrici ai mono- si digliceridelor cu acizii grasi",
+	"id" : "E472c"
+	},
+	{
+	"name" : "Esteri ai acidului citric cu mono- si digliceridele acizilor grasi",
+	"id" : "E472c"
+	},
+	{
+	"name" : "Citrogliceride",
+	"id" : "E472c"
+	},
+	{
+	"name" : "Citrem",
+	"id" : "E472c"
+	},
+	{
+	"name" : "E472d",
+	"id" : "E472d"
+	},
+	{
+	"name" : "Esteri tartrici ai mono- si digliceridelor cu acizi grasi",
+	"id" : "E472d"
+	},
+	{
+	"name" : "Esteri ai acidului tartric cu mono- si digliceridele acizilor grasi",
+	"id" : "E472d"
+	},
+	{
+	"name" : "E472e",
+	"id" : "E472e"
+	},
+	{
+	"name" : "Datem",
+	"id" : "E472e"
+	},
+	{
+	"name" : "Esteri mono- si diacetiltartici ai mono- si digliceridelor cu acizi grasi",
+	"id" : "E472e"
+	},
+	{
+	"name" : "Esteri ai acizilor mono- si diacetiltartric cu mono- si digliceridele acizilor grasi",
+	"id" : "E472e"
+	},
+	{
+	"name" : "E472f",
+	"id" : "E472f"
+	},
+	{
+	"name" : "Esteri acetici si tartrici combinati ai mono- si digliceridelor cu acizi grasi",
+	"id" : "E472f"
+	},
+	{
+	"name" : "Amestec de esteri ai acidului acetic si ai acidului tartric cu mono- si digliceridele acizilor grasi",
+	"id" : "E472f"
+	},
+	{
+	"name" : "E481",
+	"id" : "E481"
+	},
+	{
+	"name" : "Stearoil 2 lactilat de sodiu",
+	"id" : "E481"
+	},
+	{
+	"name" : "E482",
+	"id" : "E482"
+	},
+	{
+	"name" : "Stearoil 2 lactilat de calciu",
+	"id" : "E482"
+	},
+	{
+	"name" : "E500",
+	"id" : "E500"
+	},
+	{
+	"name" : "Carbonat de sodiu",
+	"id" : "E500"
+	},
+	{
+	"name" : "E500i",
+	"id" : "E500"
+	},
+	{
+	"name" : "E500ii",
+	"id" : "E500"
+	},
+	{
+	"name" : "Carbonat acid de sodiu",
+	"id" : "E500"
+	},
+	{
+	"name" : "Bicarbonat de sodiu",
+	"id" : "E500"
+	},
+	{
+	"name" : "E500iii",
+	"id" : "E500"
+	},
+	{
+	"name" : "Sesqicarbonat de sodiu",
+	"id" : "E500"
+	},
+	{
+	"name" : "E501",
+	"id" : "E501"
+	},
+	{
+	"name" : "E501i",
+	"id" : "E501"
+	},
+	{
+	"name" : "Carbonat de potasiu",
+	"id" : "E501"
+	},
+	{
+	"name" : "E501ii",
+	"id" : "E501"
+	},
+	{
+	"name" : "Bicarbonat de potasiu",
+	"id" : "E501"
+	},
+	{
+	"name" : "E503",
+	"id" : "E503"
+	},
+	{
+	"name" : "Carbonat de amoniu",
+	"id" : "E503"
+	},
+	{
+	"name" : "E503i",
+	"id" : "E503"
+	},
+
+	{
+	"name" : "E503ii",
+	"id" : "E503"
+	},
+	{
+	"name" : "Bicarbonat de amoniu",
+	"id" : "E503"
+	},
+	{
+	"name" : "E504",
+	"id" : "E504"
+	},
+	{
+	"name" : "Carbonat de magneziu",
+	"id" : "E504"
+	},
+	{
+	"name" : "E504i",
+	"id" : "E504"
+	},
+	{
+	"name" : "E504ii",
+	"id" : "E504"
+	},
+	{
+	"name" : "Bicarbonat de magneziu",
+	"id" : "E504"
+	},
+	{
+	"name" : "E507",
+	"id" : "E507"
+	},
+	{
+	"name" : "Acid clorhidric",
+	"id" : "E507"
+	},
+	{
+	"name" : "Acid muriatic",
+	"id" : "E507"
+	},
+	{
+	"name" : "E508",
+	"id" : "E508"
+	},
+	{
+	"name" : "Clorura de potasiu",
+	"id" : "E508"
+	},
+	{
+	"name" : "E509",
+	"id" : "E509"
+	},
+	{
+	"name" : "Clorura de calciu",
+	"id" : "E509"
+	},
+	{
+	"name" : "E511",
+	"id" : "E511"
+	},
+	{
+	"name" : "Clorura de magneziu",
+	"id" : "E511"
+	},
+	{
+	"name" : "E526",
+	"id" : "E526"
+	},
+	{
+	"name" : "Hidroxid de calciu",
+	"id" : "E526"
+	},
+	{
+	"name" : "E529",
+	"id" : "E529"
+	},
+	{
+	"name" : "Oxid de calciu",
+	"id" : "E529"
+	},
+	{
+	"name" : "E552",
+	"id" : "E552"
+	},
+	{
+	"name" : "Silicat de calciu",
+	"id" : "E552"
+	},
+	{
+	"name" : "E553a",
+	"id" : "E553a"
+	},
+	{
+	"name" : "Silicati de magneziu",
+	"id" : "E553a"
+	},
+	{
+	"name" : "E553ai",
+	"id" : "E553a"
+	},
+	{
+	"name" : "Silicat de magneziu",
+	"id" : "E553a"
+	},
+	{
+	"name" : "E553aii",
+	"id" : "E553a"
+	},
+	{
+	"name" : "Trisilicat de magneziu",
+	"id" : "E553a"
+	},
+	{
+	"name" : "E558",
+	"id" : "E558"
+	},
+	{
+	"name" : "Bentonita",
+	"id" : "E558"
+	},
+	{
+	"name" : "E570",
+	"id" : "E570"
+	},
+	{
+	"name" : "Acizi grasi",
+	"id" : "E570"
+	},
+	{
+	"name" : "Acid stearic",
+	"id" : "E570"
+	},
+	{
+	"name" : "E640",
+	"id" : "E640"
+	},
+	{
+	"name" : "Glicina si sarea de sodiu",
+	"id" : "E640"
+	},
+	{
+	"name" : "E901",
+	"id" : "E901"
+	},
+	{
+	"name" : "Ceara de albine",
+	"id" : "E901"
+	},
+	{
+	"name" : "E901i",
+	"id" : "E901"
+	},
+	{
+	"name" : "Ceara alba de albine",
+	"id" : "E901"
+	},
+	{
+	"name" : "E901ii",
+	"id" : "E901"
+	},
+	{
+	"name" : "Ceara galbena de albine",
+	"id" : "E901"
+	},
+	{
+	"name" : "E902",
+	"id" : "E902"
+	},
+	{
+	"name" : "Ceara de Candelilla",
+	"id" : "E902"
+	},
+	{
+	"name" : "E903",
+	"id" : "E903"
+	},
+	{
+	"name" : "Ceara de Carnauba",
+	"id" : "E903"
+	},
+	{
+	"name" : "E920",
+	"id" : "E920"
+	},
+	{
+	"name" : "L-cisteina",
+	"id" : "E920"
+	},
+	{
+	"name" : "E938",
+	"id" : "E938"
+	},
+	{
+	"name" : "Argon",
+	"id" : "E938"
+	},
+	{
+	"name" : "E939",
+	"id" : "E939"
+	},
+	{
+	"name" : "Heliu",
+	"id" : "E939"
+	},
+	{
+	"name" : "E941",
+	"id" : "E941"
+	},
+	{
+	"name" : "Azot",
+	"id" : "E941"
+	},
+	{
+	"name" : "E957",
+	"id" : "E957"
+	},
+	{
+	"name" : "Taumatina",
+	"id" : "E957"
+	},
+	{
+	"name" : "E959",
+	"id" : "E959"
+	},
+	{
+	"name" : "Neohesperidina DC",
+	"id" : "E959"
+	},
+	{
+	"name" : "E1103",
+	"id" : "E1103"
+	},
+	{
+	"name" : "Invertaza",
+	"id" : "E1103"
+	},
+	{
+	"name" : "E1105",
+	"id" : "E1105"
+	},
+	{
+	"name" : "Lizozim",
+	"id" : "E1105"
+	},
+	{
+	"name" : "E104",
+	"id" : "E104"
+	},
+	{
+	"name" : "Galben de chinolina",
+	"id" : "E104"
+	},
+	{
+	"name" : "FD&C Yellow no 10",
+	"id" : "E104"
+	},
+	{
+	"name" : "E110",
+	"id" : "E110"
+	},
+	{
+	"name" : "Galben portocaliu Sunset FCF",
+	"id" : "E110"
+	},
+	{
+	"name" : "Galben orange S",
+	"id" : "E110"
+	},
+	{
+	"name" : "E1200",
+	"id" : "E1200"
+	},
+	{
+	"name" : "Polidextroza",
+	"id" : "E1200"
+	},
+	{
+	"name" : "E122",
+	"id" : "E122"
+	},
+	{
+	"name" : "Azorubina",
+	"id" : "E122"
+	},
+	{
+	"name" : "Carmoizina",
+	"id" : "E122"
+	},
+	{
+	"name" : "E129",
+	"id" : "E129"
+	},
+	{
+	"name" : "Rosu Allura AC",
+	"id" : "E129"
+	},
+	{
+	"name" : "E132",
+	"id" : "E132"
+	},
+	{
+	"name" : "Indigotina",
+	"id" : "E132"
+	},
+	{
+	"name" : "Carmin indigo",
+	"id" : "E132"
+	},
+	{
+	"name" : "FD&C blue no 2",
+	"id" : "E132"
+	},
+	{
+	"name" : "E133",
+	"id" : "E133"
+	},
+	{
+	"name" : "Albastru Btilliant FCF",
+	"id" : "E133"
+	},
+	{
+	"name" : "FD&C blue no 1",
+	"id" : "E133"
+	},
+	{
+	"name" : "E1404",
+	"id" : "E1404"
+	},
+	{
+	"name" : "Amidon oxidat",
+	"id" : "E1404"
+	},
+	{
+	"name" : "Amidon modificat din porumb",
+	"id" : "E1404"
+	},
+	{
+	"name" : "E1410",
+	"id" : "E1410"
+	},
+	{
+	"name" : "Fosfat monoamidonic",
+	"id" : "E1410"
+	},
+	{
+	"name" : "E1412",
+	"id" : "E1412"
+	},
+	{
+	"name" : "Fosfat de diamidon",
+	"id" : "E1412"
+	},
+	{
+	"name" : "E1413",
+	"id" : "E1413"
+	},
+	{
+	"name" : "Fosfat de diamidon fosfatat",
+	"id" : "E1413"
+	},
+	{
+	"name" : "E1414",
+	"id" : "E1414"
+	},
+	{
+	"name" : "Fosfat de diamidon acetilat",
+	"id" : "E1414"
+	},
+	{
+	"name" : "E142",
+	"id" : "E142"
+	},
+	{
+	"name" : "Verde S",
+	"id" : "E142"
+	},
+	{
+	"name" : "Verde acid briliant",
+	"id" : "E142"
+	},
+	{
+	"name" : "E1420",
+	"id" : "E1420"
+	},
+	{
+	"name" : "Amidon acetilat",
+	"id" : "E1420"
+	},
+	{
+	"name" : "E1422",
+	"id" : "E1422"
+	},
+	{
+	"name" : "Adipat de diamidon acetilat",
+	"id" : "E1422"
+	},
+	{
+	"name" : "E1440",
+	"id" : "E1440"
+	},
+	{
+	"name" : "Amidon hidroxipropilat",
+	"id" : "E1440"
+	},
+	{
+	"name" : "E1442",
+	"id" : "E1442"
+	},
+	{
+	"name" : "Fosfat de diamidon hidroxipropilat",
+	"id" : "E1442"
+	},
+	{
+	"name" : "E1450",
+	"id" : "E1450"
+	},
+	{
+	"name" : "Octenil succinat de amidon sodic",
+	"id" : "E1450"
+	},
+	{
+	"name" : "E1451",
+	"id" : "E1451"
+	},
+	{
+	"name" : "Amidon oxidat acetilat",
+	"id" : "E1451"
+	},
+	{
+	"name" : "E1452",
+	"id" : "E1452"
+	},
+	{
+	"name" : "Octenil succinat de amidon aluminiu",
+	"id" : "E1452"
+	},
+	{
+	"name" : "E1505",
+	"id" : "E1505"
+	},
+	{
+	"name" : "Citrat de trietil",
+	"id" : "E1505"
+	},
+	{
+	"name" : "E150a",
+	"id" : "E150a"
+	},
+	{
+	"name" : "Caramel simplu",
+	"id" : "E150a"
+	},
+	{
+	"name" : "E150b",
+	"id" : "E150b"
+	},
+	{
+	"name" : "Caramel de sulfit de sodiu",
+	"id" : "E150b"
+	},
+	{
+	"name" : "E150c",
+	"id" : "E150c"
+	},
+	{
+	"name" : "Caramel amoniacal",
+	"id" : "E150c"
+	},
+	{
+	"name" : "E150d",
+	"id" : "E150d"
+	},
+	{
+	"name" : "Caramel sulfit de amoniu",
+	"id" : "E150d"
+	},
+	{
+	"name" : "E1518",
+	"id" : "E1518"
+	},
+	{
+	"name" : "Triacetat de gliceril",
+	"id" : "E1518"
+	},
+	{
+	"name" : "Triacetina",
+	"id" : "E1518"
+	},
+	{
+	"name" : "E160a",
+	"id" : "E160a"
+	},
+	{
+	"name" : "Alfa- Beta- Gamma- caroten",
+	"id" : "E160a"
+	},
+	{
+	"name" : "Caroteni",
+	"id" : "E160a"
+	},
+	{
+	"name" : "Amestec de caroteni",
+	"id" : "E160a"
+	},
+	{
+	"name" : "E160b",
+	"id" : "E160b"
+	},
+	{
+	"name" : "Annatto",
+	"id" : "E160b"
+	},
+	{
+	"name" : "Bixina",
+	"id" : "E160b"
+	},
+	{
+	"name" : "Norbixina",
+	"id" : "E160b"
+	},
+	{
+	"name" : "E160e",
+	"id" : "E160e"
+	},
+	{
+	"name" : "Beta-apo-8'-carotenal",
+	"id" : "E160e"
+	},
+	{
+	"name" : "E160f",
+	"id" : "E160f"
+	},
+	{
+	"name" : "Beta-apo-8-metil/etil ester ai acidului carotenic",
+	"id" : "E160f"
+	},
+	{
+	"name" : "E161b",
+	"id" : "E161b"
+	},
+	{
+	"name" : "Luteina",
+	"id" : "E161b"
+	},
+	{
+	"name" : "E161g",
+	"id" : "E161g"
+	},
+	{
+	"name" : "Xantofila",
+	"id" : "E161g"
+	},
+	{
+	"name" : "Cantaxantina",
+	"id" : "E161g"
+	},
+	{
+	"name" : "E171",
+	"id" : "E171"
+	},
+	{
+	"name" : "Dioxid de titan",
+	"id" : "E171"
+	},
+	{
+	"name" : "E172",
+	"id" : "E172"
+	},
+	{
+	"name" : "Oxizi de fier",
+	"id" : "E172"
+	},
+	{
+	"name" : "Hidroxizi de fier",
+	"id" : "E172"
+	},
+	{
+	"name" : "E172i",
+	"id" : "E172"
+	},
+	{
+	"name" : "Oxid negru de fier",
+	"id" : "E172"
+	},
+	{
+	"name" : "E172ii",
+	"id" : "E172"
+	},
+	{
+	"name" : "Oxid rosu de fier",
+	"id" : "E172"
+	},
+	{
+	"name" : "E172iii",
+	"id" : "E172"
+	},
+	{
+	"name" : "Oxid galben de fier",
+	"id" : "E172"
+	},
+	{
+	"name" : "E173",
+	"id" : "E173"
+	},
+	{
+	"name" : "Aluminiu",
+	"id" : "E173"
+	},
+	{
+	"name" : "E174",
+	"id" : "E174"
+	},
+	{
+	"name" : "Argint",
+	"id" : "E174"
+	},
+	{
+	"name" : "E175",
+	"id" : "E175"
+	},
+	{
+	"name" : "Aur",
+	"id" : "E175"
+	},
+	{
+	"name" : "E180",
+	"id" : "E180"
+	},
+	{
+	"name" : "Litolrubina BK",
+	"id" : "E180"
+	},
+	{
+	"name" : "Carmin 6B",
+	"id" : "E180"
+	},
+	{
+	"name" : "E200",
+	"id" : "E200"
+	},
+	{
+	"name" : "Acid sorbic",
+	"id" : "E200"
+	},
+	{
+	"name" : "E202",
+	"id" : "E202"
+	},
+	{
+	"name" : "Sorbat de potasiu",
+	"id" : "E202"
+	},
+	{
+	"name" : "E203",
+	"id" : "E203"
+	},
+	{
+	"name" : "Sorbat de calciu",
+	"id" : "E203"
+	},
+	{
+	"name" : "E230",
+	"id" : "E230"
+	},
+	{
+	"name" : "Bifenil",
+	"id" : "E230"
+	},
+	{
+	"name" : "Difenil",
+	"id" : "E230"
+	},
+	{
+	"name" : "E234",
+	"id" : "E234"
+	},
+	{
+	"name" : "Nizina",
+	"id" : "E234"
+	},
+	{
+	"name" : "E235",
+	"id" : "E235"
+	},
+	{
+	"name" : "Natamicina",
+	"id" : "E235"
+	},
+	{
+	"name" : "Primaricina",
+	"id" : "E235"
+	},
+	{
+	"name" : "E239",
+	"id" : "E239"
+	},
+	{
+	"name" : "Hexametilentetramina",
+	"id" : "E239"
+	},
+	{
+	"name" : "Metanamina",
+	"id" : "E239"
+	},
+	{
+	"name" : "E250",
+	"id" : "E250"
+	},
+	{
+	"name" : "Nitrit de sodiu",
+	"id" : "E250"
+	},
+	{
+	"name" : "E251",
+	"id" : "E251"
+	},
+	{
+	"name" : "Nitrat de sodiu",
+	"id" : "E251"
+	},
+	{
+	"name" : "E252",
+	"id" : "E252"
+	},
+	{
+	"name" : "Nitrat de potasiu",
+	"id" : "E252"
+	},
+	{
+	"name" : "E280",
+	"id" : "E280"
+	},
+	{
+	"name" : "Acid propionic",
+	"id" : "E280"
+	},
+	{
+	"name" : "E281",
+	"id" : "E281"
+	},
+	{
+	"name" : "Propionat de sodiu",
+	"id" : "E281"
+	},
+	{
+	"name" : "E282",
+	"id" : "E282"
+	},
+	{
+	"name" : "Propionat de calciu",
+	"id" : "E282"
+	},
+	{
+	"name" : "E283",
+	"id" : "E283"
+	},
+	{
+	"name" : "Propionat de potasiu",
+	"id" : "E283"
+	},
+	{
+	"name" : "E315",
+	"id" : "E315"
+	},
+	{
+	"name" : "Acid eritorbic",
+	"id" : "E315"
+	},
+	{
+	"name" : "Acid izoascorbic",
+	"id" : "E315"
+	},
+	{
+	"name" : "E316",
+	"id" : "E316"
+	},
+	{
+	"name" : "Eritorbat de sodiu",
+	"id" : "E316"
+	},
+	{
+	"name" : "E321",
+	"id" : "E321"
+	},
+	{
+	"name" : "Butilhidroxitoluen BHT",
+	"id" : "E321"
+	},
+	{
+	"name" : "E338",
+	"id" : "E338"
+	},
+	{
+	"name" : "Acid fosforic",
+	"id" : "E338"
+	},
+	{
+	"name" : "Acid ortofosforic",
+	"id" : "E338"
+	},
+	{
+	"name" : "E339",
+	"id" : "E339"
+	},
+	{
+	"name" : "Fosfati de sodiu",
+	"id" : "E339"
+	},
+	{
+	"name" : "E340",
+	"id" : "E340"
+	},
+	{
+	"name" : "Fosfati de potasiu",
+	"id" : "E340"
+	},
+	{
+	"name" : "E341",
+	"id" : "E341"
+	},
+	{
+	"name" : "Fosfati de calciu",
+	"id" : "E341"
+	},
+	{
+	"name" : "E341i",
+	"id" : "E341"
+	},
+	{
+	"name" : "Fosfat monocalcic",
+	"id" : "E341"
+	},
+	{
+	"name" : "E341ii",
+	"id" : "E341"
+	},
+	{
+	"name" : "Fosfat dicalcic",
+	"id" : "E341"
+	},
+	{
+	"name" : "E341iii",
+	"id" : "E341"
+	},
+	{
+	"name" : "Fosfat tricalcic",
+	"id" : "E341"
+	},
+	{
+	"name" : "E343",
+	"id" : "E343"
+	},
+	{
+	"name" : "Fosfati de magneziu",
+	"id" : "E343"
+	},
+	{
+	"name" : "E343i",
+	"id" : "E343"
+	},
+	{
+	"name" : "Fosfat monomagnezic",
+	"id" : "E343"
+	},
+	{
+	"name" : "E343ii",
+	"id" : "E343"
+	},
+	{
+	"name" : "Fosfat dimagnezic",
+	"id" : "E343"
+	},
+	{
+	"name" : "E353",
+	"id" : "E353"
+	},
+	{
+	"name" : "Acid metatartric",
+	"id" : "E353"
+	},
+	{
+	"name" : "E354",
+	"id" : "E354"
+	},
+	{
+	"name" : "Tartrat de calciu",
+	"id" : "E354"
+	},
+	{
+	"name" : "E355",
+	"id" : "E355"
+	},
+	{
+	"name" : "Acid adipic",
+	"id" : "E355"
+	},
+	{
+	"name" : "E356",
+	"id" : "E356"
+	},
+	{
+	"name" : "Adipat de sodiu",
+	"id" : "E356"
+	},
+	{
+	"name" : "E357",
+	"id" : "E357"
+	},
+	{
+	"name" : "Adipat de potasiu",
+	"id" : "E357"
+	},
+	{
+	"name" : "E363",
+	"id" : "E363"
+	},
+	{
+	"name" : "Acid succinic",
+	"id" : "E363"
+	},
+	{
+	"name" : "E380",
+	"id" : "E380"
+	},
+	{
+	"name" : "Citrat triamonic",
+	"id" : "E380"
+	},
+	{
+	"name" : "E385",
+	"id" : "E385"
+	},
+	{
+	"name" : "Etilendiaminotetraacetat de calciu disodiu",
+	"id" : "E385"
+	},
+	{
+	"name" : "Calc",
+	"id" : "E385"
+	},
+	{
+	"name" : "Calciu disodiu-EDTA",
+	"id" : "E385"
+	},
+	{
+	"name" : "EDTA calciu disodic",
+	"id" : "E385"
+	},
+	{
+	"name" : "Sarea de calciu a EDTA",
+	"id" : "E385"
+	},
+	{
+	"name" : "Etilen diamina tetra acetat",
+	"id" : "E385"
+	},
+	{
+	"name" : "E400",
+	"id" : "E400"
+	},
+	{
+	"name" : "Acid alginic",
+	"id" : "E400"
+	},
+	{
+	"name" : "E401",
+	"id" : "E401"
+	},
+	{
+	"name" : "Alginat de sodiu",
+	"id" : "E401"
+	},
+	{
+	"name" : "E402",
+	"id" : "E402"
+	},
+	{
+	"name" : "Alginat de potasiu",
+	"id" : "E402"
+	},
+	{
+	"name" : "E403",
+	"id" : "E403"
+	},
+	{
+	"name" : "Alginat de amoniu",
+	"id" : "E403"
+	},
+	{
+	"name" : "E404",
+	"id" : "E404"
+	},
+	{
+	"name" : "Alginat de calciu",
+	"id" : "E404"
+	},
+	{
+	"name" : "E405",
+	"id" : "E405"
+	},
+	{
+	"name" : "Alginat de propilenglicol",
+	"id" : "E405"
+	},
+	{
+	"name" : "Alginat de propan-1, 2-diol",
+	"id" : "E405"
+	},
+	{
+	"name" : "PGA",
+	"id" : "E405"
+	},
+	{
+	"name" : "E406",
+	"id" : "E406"
+	},
+	{
+	"name" : "Agar-agar",
+	"id" : "E406"
+	},
+	{
+	"name" : "Geloza",
+	"id" : "E406"
+	},
+	{
+	"name" : "E410",
+	"id" : "E410"
+	},
+	{
+	"name" : "Guma carruba",
+	"id" : "E410"
+	},
+	{
+	"name" : "Locust Been gum",
+	"id" : "E410"
+	},
+	{
+	"name" : "Guma din seminte de carruba",
+	"id" : "E410"
+	},
+	{
+	"name" : "E412",
+	"id" : "E412"
+	},
+	{
+	"name" : "Guma de guar",
+	"id" : "E412"
+	},
+	{
+	"name" : "E413",
+	"id" : "E413"
+	},
+	{
+	"name" : "Tragacant",
+	"id" : "E413"
+	},
+	{
+	"name" : "Guma adragante",
+	"id" : "E413"
+	},
+	{
+	"name" : "Guma tragacante",
+	"id" : "E413"
+	},
+	{
+	"name" : "E415",
+	"id" : "E415"
+	},
+	{
+	"name" : "Guma de Xantan",
+	"id" : "E415"
+	},
+	{
+	"name" : "E416",
+	"id" : "E416"
+	},
+	{
+	"name" : "Guma Karaya",
+	"id" : "E416"
+	},
+	{
+	"name" : "E417",
+	"id" : "E417"
+	},
+	{
+	"name" : "Guma tara",
+	"id" : "E417"
+	},
+	{
+	"name" : "E418",
+	"id" : "E418"
+	},
+	{
+	"name" : "Guma gellan",
+	"id" : "E418"
+	},
+	{
+	"name" : "E420",
+	"id" : "E420"
+	},
+	{
+	"name" : "Sorbitol",
+	"id" : "E420"
+	},
+	{
+	"name" : "E420i",
+	"id" : "E420"
+	},
+	{
+	"name" : "E420ii",
+	"id" : "E420"
+	},
+	{
+	"name" : "Sirop de sorbitol",
+	"id" : "E420"
+	},
+	{
+	"name" : "E421",
+	"id" : "E421"
+	},
+	{
+	"name" : "Manitol",
+	"id" : "E421"
+	},
+	{
+	"name" : "E431",
+	"id" : "E431"
+	},
+	{
+	"name" : "Stearat de polioxietilena",
+	"id" : "E431"
+	},
+	{
+	"name" : "E442",
+	"id" : "E442"
+	},
+	{
+	"name" : "Fosfatide de amoniu",
+	"id" : "E442"
+	},
+	{
+	"name" : "Fosfati de amoniu",
+	"id" : "E442"
+	},
+	{
+	"name" : "E444",
+	"id" : "E444"
+	},
+	{
+	"name" : "Acetat izobutirat de zaharoza",
+	"id" : "E444"
+	},
+	{
+	"name" : "Sucroza acetat izobutirat",
+	"id" : "E444"
+	},
+	{
+	"name" : "E441",
+	"id" : "E441"
+	},
+	{
+	"name" : "Gelatina",
+	"id" : "E441"
+	},
+	{
+	"name" : "E445",
+	"id" : "E445"
+	},
+	{
+	"name" : "Esteri glicerici ai rasinilor de lemn",
+	"id" : "E445"
+	},
+	{
+	"name" : "Glicerol es",
+	"id" : "E445"
+	},
+	{
+	"name" : "Glicerol ester",
+	"id" : "E445"
+	},
+	{
+	"name" : "Guma de ester",
+	"id" : "E445"
+	},
+	{
+	"name" : "E450",
+	"id" : "E450"
+	},
+	{
+	"name" : "Difosfati",
+	"id" : "E450"
+	},
+	{
+	"name" : "E450i",
+	"id" : "E450"
+	},
+	{
+	"name" : "Disodiu difosfat",
+	"id" : "E450"
+	},
+    {
+	"name" : "Difosfat de sodiu",
+	"id" : "E450"
+	},
+	{
+	"name" : "E450ii",
+	"id" : "E450"
+	},
+	{
+	"name" : "Difosfat trisodic",
+	"id" : "E450"
+	},
+	{
+	"name" : "E450iii",
+	"id" : "E450"
+	},
+	{
+	"name" : "Difosfat tetrasodic",
+	"id" : "E450"
+	},
+	{
+	"name" : "E450iv",
+	"id" : "E450"
+	},
+	{
+	"name" : "Difosfat dipotasic",
+	"id" : "E450"
+	},
+	{
+	"name" : "E450v",
+	"id" : "E450"
+	},
+	{
+	"name" : "Difosfat tetrapotasic",
+	"id" : "E450"
+	},
+	{
+	"name" : "E450vi",
+	"id" : "E450"
+	},
+	{
+	"name" : "Difosfat dicalcic",
+	"id" : "E450"
+	},
+	{
+	"name" : "E450vii",
+	"id" : "E450"
+	},
+	{
+	"name" : "Difosfat biacid de calciu",
+	"id" : "E450"
+	},
+	{
+	"name" : "E450viii",
+	"id" : "E450"
+	},
+	{
+	"name" : "Difosfat dimagnezic",
+	"id" : "E450"
+	},
+	{
+	"name" : "E451",
+	"id" : "E451"
+	},
+	{
+	"name" : "Trifosfati",
+	"id" : "E451"
+	},
+	{
+	"name" : "E451i",
+	"id" : "E451"
+	},
+	{
+	"name" : "Trifosfat pentasodic",
+	"id" : "E451"
+	},
+	{
+	"name" : "E451ii",
+	"id" : "E451"
+	},
+	{
+	"name" : "Trifosfat pentapotasic",
+	"id" : "E451"
+	},
+	{
+	"name" : "E452",
+	"id" : "E452"
+	},
+	{
+	"name" : "Polifosfati",
+	"id" : "E452"
+	},
+	{
+	"name" : "E452i",
+	"id" : "E452"
+	},
+	{
+	"name" : "Polifosfat sodic",
+	"id" : "E452"
+	},
+	{
+	"name" : "E452ii",
+	"id" : "E452"
+	},
+	{
+	"name" : "Polifosfat potasic",
+	"id" : "E452"
+	},
+	{
+	"name" : "E452iii",
+	"id" : "E452"
+	},
+	{
+	"name" : "Polifosfat de sodiu si calciu",
+	"id" : "E452"
+	},
+	{
+	"name" : "E452iv",
+	"id" : "E452"
+	},
+	{
+	"name" : "Polifosfat de calciu",
+	"id" : "E452"
+	},
+	{
+	"name" : "E452v",
+	"id" : "E452"
+	},
+	{
+	"name" : "Polifosfat de amoniu",
+	"id" : "E452"
+	},
+	{
+	"name" : "E461",
+	"id" : "E461"
+	},
+	{
+	"name" : "Metilceluloza",
+	"id" : "E461"
+	},
+	{
+	"name" : "E463",
+	"id" : "E463"
+	},
+	{
+	"name" : "Hidroxipropil celuloza",
+	"id" : "E463"
+	},
+	{
+	"name" : "Celuloza modificata",
+	"id" : "E463"
+	},
+	{
+	"name" : "E464",
+	"id" : "E464"
+	},
+	{
+	"name" : "Hidroxipropilmetil celuloza",
+	"id" : "E464"
+	},
+	{
+	"name" : "E465",
+	"id" : "E465"
+	},
+	{
+	"name" : "Etilmetilceluloza",
+	"id" : "E465"
+	},
+	{
+	"name" : "E466",
+	"id" : "E466"
+	},
+	{
+	"name" : "Carboximetil celuloza de sodiu",
+	"id" : "E466"
+	},
+	{
+	"name" : "Carboximetil celuloza",
+	"id" : "E466"
+	},
+	{
+	"name" : "Guma de celuloza",
+	"id" : "E466"
+	},
+	{
+	"name" : "E470b",
+	"id" : "E470b"
+	},
+	{
+	"name" : "Saruri de magneziu ale acizilor grasi",
+	"id" : "E470b"
+	},
+	{
+	"name" : "E470a",
+	"id" : "E470a"
+	},
+	{
+	"name" : "Saruri de sodiu, potasiu si calciu ale acizilor grasi",
+	"id" : "E470a"
+	},
+	{
+	"name" : "E470ai",
+	"id" : "E470a"
+	},
+	{
+	"name" : "Saruri de sodiu ale acizilor grasi",
+	"id" : "E470a"
+	},
+	{
+	"name" : "E470aii",
+	"id" : "E470a"
+	},
+	{
+	"name" : "Saruri de potasiu ale acizilor grasi",
+	"id" : "E470a"
+	},
+	{
+	"name" : "E470aiii",
+	"id" : "E470a"
+	},
+	{
+	"name" : "Saruri de calciu ale acizilor grasi",
+	"id" : "E470a"
+	},
+	{
+	"name" : "E474",
+	"id" : "E474"
+	},
+	{
+	"name" : "Zaharogliceride",
+	"id" : "E474"
+	},
+	{
+	"name" : "Sucrogliceride",
+	"id" : "E474"
+	},
+	{
+	"name" : "E475",
+	"id" : "E475"
+	},
+	{
+	"name" : "Esteri poliglicerici ai acizilor grasi",
+	"id" : "E475"
+	},
+	{
+	"name" : "Poliglice",
+	"id" : "E475"
+	},
+	{
+	"name" : "E476",
+	"id" : "E476"
+	},
+	{
+	"name" : "Poliricinoleat de poliglicerina",
+	"id" : "E476"
+	},
+	{
+	"name" : "E477",
+	"id" : "E477"
+	},
+	{
+	"name" : "Esteri ai propilenglicolului cu acizi grasi",
+	"id" : "E477"
+	},
+	{
+	"name" : "Esteri ai propan-1,2-diolului cu acizilor grasi",
+	"id" : "E477"
+	},
+	{
+	"name" : "E479b",
+	"id" : "E479b"
+	},
+	{
+	"name" : "Tosom",
+	"id" : "E479b"
+	},
+	{
+	"name" : "Ulei de soia oxidat termic cu mono- si digliceride ale acizilor grasi",
+	"id" : "E479b"
+	},
+	{
+	"name" : "Ulei de soia esterificat",
+	"id" : "E479b"
+	},
+	{
+	"name" : "E483",
+	"id" : "E483"
+	},
+	{
+	"name" : "Stearoil tartrat",
+	"id" : "E483"
+	},
+	{
+	"name" : "Tartrat de stearoil",
+	"id" : "E483"
+	},
+	{
+	"name" : "E491",
+	"id" : "E491"
+	},
+	{
+	"name" : "Span 60",
+	"id" : "E491"
+	},
+	{
+	"name" : "Monostearat de sorbitan",
+	"id" : "E491"
+	},
+	{
+	"name" : "Sorbitan monostearat",
+	"id" : "E491"
+	},
+	{
+	"name" : "E492",
+	"id" : "E492"
+	},
+	{
+	"name" : "Span 65",
+	"id" : "E492"
+	},
+	{
+	"name" : "Sorbitan tristearat",
+	"id" : "E492"
+	},
+	{
+	"name" : "Tristearat de sorbitan",
+	"id" : "E492"
+	},
+	{
+	"name" : "E493",
+	"id" : "E493"
+	},
+	{
+	"name" : "Sorbitan monolaurat",
+	"id" : "E493"
+	},
+	{
+	"name" : "Span 20",
+	"id" : "E493"
+	},
+	{
+	"name" : "Monolaurat de sorbitan",
+	"id" : "E493"
+	},
+	{
+	"name" : "E494",
+	"id" : "E494"
+	},
+	{
+	"name" : "Sorbitan monooleat",
+	"id" : "E494"
+	},
+	{
+	"name" : "Span 80",
+	"id" : "E494"
+	},
+	{
+	"name" : "Monooleat de sorbitan",
+	"id" : "E494"
+	},
+	{
+	"name" : "E495",
+	"id" : "E495"
+	},
+	{
+	"name" : "Sorbitan monopalmitat",
+	"id" : "E495"
+	},
+	{
+	"name" : "Span 40",
+	"id" : "E495"
+	},
+	{
+	"name" : "Monopalmitat de sorbitan",
+	"id" : "E495"
+	},
+	{
+	"name" : "E499",
+	"id" : "E499"
+	},
+	{
+	"name" : "Sterol vegetal bogat in stigmasterol",
+	"id" : "E499"
+	},
+	{
+	"name" : "E512",
+	"id" : "E512"
+	},
+	{
+	"name" : "Clorura stanoasa",
+	"id" : "E512"
+	},
+	{
+	"name" : "E513",
+	"id" : "E513"
+	},
+	{
+	"name" : "Acid sulfuric",
+	"id" : "E513"
+	},
+	{
+	"name" : "E514",
+	"id" : "E514"
+	},
+	{
+	"name" : "Sulfati de sodiu",
+	"id" : "E514"
+	},
+	{
+	"name" : "E514i",
+	"id" : "E514"
+	},
+	{
+	"name" : "Sulfat de sodiu",
+	"id" : "E514"
+	},
+	{
+	"name" : "E514ii",
+	"id" : "E514"
+	},
+	{
+	"name" : "Sulfat acid de sodiu",
+	"id" : "E514"
+	},
+	{
+	"name" : "E516",
+	"id" : "E516"
+	},
+	{
+	"name" : "Sulfat de calciu",
+	"id" : "E516"
+	},
+	{
+	"name" : "E520",
+	"id" : "E520"
+	},
+	{
+	"name" : "Sulfat de aluminiu",
+	"id" : "E520"
+	},
+	{
+	"name" : "E521",
+	"id" : "E521"
+	},
+	{
+	"name" : "Sulfat de aluminiu sodic",
+	"id" : "E521"
+	},
+	{
+	"name" : "E522",
+	"id" : "E522"
+	},
+	{
+	"name" : "Sulfat de aluminiu potasic",
+	"id" : "E522"
+	},
+	{
+	"name" : "E523",
+	"id" : "E523"
+	},
+	{
+	"name" : "Sulfat de aluminiu amoniacal",
+	"id" : "E523"
+	},
+	{
+	"name" : "E524",
+	"id" : "E524"
+	},
+	{
+	"name" : "Hidroxid de sodiu",
+	"id" : "E524"
+	},
+	{
+	"name" : "Soda caustica",
+	"id" : "E524"
+	},
+	{
+	"name" : "E525",
+	"id" : "E525"
+	},
+	{
+	"name" : "Hidroxid de potasiu",
+	"id" : "E525"
+	},
+	{
+	"name" : "E527",
+	"id" : "E527"
+	},
+	{
+	"name" : "Hidroxid de amoniu",
+	"id" : "E527"
+	},
+	{
+	"name" : "Amoniac",
+	"id" : "E527"
+	},
+	{
+	"name" : "E528",
+	"id" : "E528"
+	},
+	{
+	"name" : "Hidroxid de magneziu",
+	"id" : "E528"
+	},
+	{
+	"name" : "E530",
+	"id" : "E530"
+	},
+	{
+	"name" : "Oxid de magneziu",
+	"id" : "E530"
+	},
+ 	{
+	"name" : "E535",
+	"id" : "E535"
+	},
+	{
+	"name" : "Ferocianura de sodiu",
+	"id" : "E535"
+	},
+	{
+	"name" : "E536",
+	"id" : "E536"
+	},
+	{
+	"name" : "Ferocianura de potasiu",
+	"id" : "E536"
+	},
+	{
+	"name" : "E538",
+	"id" : "E538"
+	},
+	{
+	"name" : "Ferocianura de calciu",
+	"id" : "E538"
+	},
+	{
+	"name" : "E541",
+	"id" : "E541"
+	},
+	{
+	"name" : "Fosfat acid de aluminiu si sodiu",
+	"id" : "E541"
+	},
+	{
+	"name" : "Fosfat de aluminiu sodic",
+	"id" : "E541"
+	},
+	{
+	"name" : "E551",
+	"id" : "E551"
+	},
+	{
+	"name" : "Dioxid de siliciu",
+	"id" : "E551"
+	},
+	{
+	"name" : "E553b",
+	"id" : "E553b"
+	},
+	{
+	"name" : "Talc",
+	"id" : "E553b"
+	},
+	{
+	"name" : "E554",
+	"id" : "E554"
+	},
+	{
+	"name" : "Silicat alumino-sodic",
+	"id" : "E554"
+	},
+	{
+	"name" : "E555",
+	"id" : "E555"
+	},
+	{
+	"name" : "Silicat alumino-potasic",
+	"id" : "E555"
+	},
+	{
+	"name" : "E556",
+	"id" : "E556"
+	},
+	{
+	"name" : "Silicat alumino-calcic",
+	"id" : "E556"
+	},
+	{
+	"name" : "E559",
+	"id" : "E559"
+	},
+	{
+	"name" : "Caolin",
+	"id" : "E559"
+	},
+	{
+	"name" : "Silicat aluminiu",
+	"id" : "E559"
+	},
+	{
+	"name" : "E574",
+	"id" : "E574"
+	},
+	{
+	"name" : "Acid gluconic",
+	"id" : "E574"
+	},
+	{
+	"name" : "E575",
+	"id" : "E575"
+	},
+	{
+	"name" : "Glucono-delta-lactona",
+	"id" : "E575"
+	},
+	{
+	"name" : "GDL",
+	"id" : "E575"
+	},
+	{
+	"name" : "E576",
+	"id" : "E576"
+	},
+	{
+	"name" : "Gluconat de sodiu",
+	"id" : "E576"
+	},
+	{
+	"name" : "E577",
+	"id" : "E577"
+	},
+	{
+	"name" : "Gluconat de potasiu",
+	"id" : "E577"
+	},
+	{
+	"name" : "E578",
+	"id" : "E578"
+	},
+	{
+	"name" : "Gluconat de calciu",
+	"id" : "E578"
+	},
+	{
+	"name" : "E579",
+	"id" : "E579"
+	},
+	{
+	"name" : "Gluconat de fier",
+	"id" : "E579"
+	},
+	{
+	"name" : "Gluconat feros",
+	"id" : "E579"
+	},
+	{
+	"name" : "E585",
+	"id" : "E585"
+	},
+	{
+	"name" : "Lactat de fier",
+	"id" : "E585"
+	},
+	{
+	"name" : "Lactat feros",
+	"id" : "E585"
+	},
+	{
+	"name" : "E620",
+	"id" : "E620"
+	},
+	{
+	"name" : "Acid glutamic",
+	"id" : "E620"
+	},
+	{
+	"name" : "E622",
+	"id" : "E622"
+	},
+	{
+	"name" : "Glutamat monopotasic",
+	"id" : "E622"
+	},
+	{
+	"name" : "E623",
+	"id" : "E623"
+	},
+	{
+	"name" : "Diglutamat de calciu",
+	"id" : "E623"
+	},
+	{
+	"name" : "E624",
+	"id" : "E624"
+	},
+	{
+	"name" : "Glutamat monoamonic",
+	"id" : "E624"
+	},
+	{
+	"name" : "Glutamat de amoniu",
+	"id" : "E624"
+	},
+	{
+	"name" : "E625",
+	"id" : "E625"
+	},
+	{
+	"name" : "Diglutamat de magneziu",
+	"id" : "E625"
+	},
+	{
+	"name" : "E626",
+	"id" : "E626"
+	},
+	{
+	"name" : "Acid guanilic",
+	"id" : "E626"
+	},
+	{
+	"name" : "E627",
+	"id" : "E627"
+	},
+	{
+	"name" : "Guanilat disodic",
+	"id" : "E627"
+	},
+	{
+	"name" : "E628",
+	"id" : "E628"
+	},
+	{
+	"name" : "Guanilat dipotasic",
+	"id" : "E628"
+	},
+	{
+	"name" : "E629",
+	"id" : "E629"
+	},
+	{
+	"name" : "Guanilat de calciu",
+	"id" : "E629"
+	},
+	{
+	"name" : "E630",
+	"id" : "E630"
+	},
+	{
+	"name" : "Acid inozinic",
+	"id" : "E630"
+	},
+	{
+	"name" : "E631",
+	"id" : "E631"
+	},
+	{
+	"name" : "Inozinat disodic",
+	"id" : "E631"
+	},
+	{
+	"name" : "E632",
+	"id" : "E632"
+	},
+	{
+	"name" : "Inozinat dipotasic",
+	"id" : "E632"
+	},
+	{
+	"name" : "E633",
+	"id" : "E633"
+	},
+	{
+	"name" : "Inozinat calciu",
+	"id" : "E633"
+	},
+	{
+	"name" : "E634",
+	"id" : "E634"
+	},
+	{
+	"name" : "Ribonucleotide de calciu",
+	"id" : "E634"
+	},
+	{
+	"name" : "5-ribonucleotide de calciu",
+	"id" : "E634"
+	},
+	{
+	"name" : "E635",
+	"id" : "E635"
+	},
+	{
+	"name" : "5-ribonucleotide disodice",
+	"id" : "E635"
+	},
+	{
+	"name" : "Ribonucleotide disodice",
+	"id" : "E635"
+	},
+	{
+	"name" : "E900",
+	"id" : "E900"
+	},
+	{
+	"name" : "Dimetil polisiloxan",
+	"id" : "E900"
+	},
+	{
+	"name" : "Polidimetilsiloxan",
+	"id" : "E900"
+	},
+	{
+	"name" : "E912",
+	"id" : "E912"
+	},
+	{
+	"name" : "Esteri ai acidului montanic",
+	"id" : "E912"
+	},
+	{
+	"name" : "E914",
+	"id" : "E914"
+	},
+	{
+	"name" : "Ceara de polietilena oxidata",
+	"id" : "E914"
+	},
+	{
+	"name" : "E927b",
+	"id" : "E927b"
+	},
+	{
+	"name" : "Carbamida",
+	"id" : "E927b"
+	},
+	{
+	"name" : "Uree",
+	"id" : "E927b"
+	},
+	{
+	"name" : "E942",
+	"id" : "E942"
+	},
+	{
+	"name" : "Protoxid de azot",
+	"id" : "E942"
+	},
+	{
+	"name" : "E948",
+	"id" : "E948"
+	},
+	{
+	"name" : "Oxigen",
+	"id" : "E948"
+	},
+	{
+	"name" : "E953",
+	"id" : "E953"
+	},
+	{
+	"name" : "Izomalt",
+	"id" : "E953"
+	},
+	{
+	"name" : "Izomaltitol",
+	"id" : "E953"
+	},
+	{
+	"name" : "E965",
+	"id" : "E965"
+	},
+	{
+	"name" : "Maltitol",
+	"id" : "E965"
+	},
+	{
+	"name" : "E965i",
+	"id" : "E965"
+	},
+	{
+	"name" : "E965ii",
+	"id" : "E965"
+	},
+	{
+	"name" : "Sirop de maltitol",
+	"id" : "E965"
+	},
+	{
+	"name" : "E964",
+	"id" : "E964"
+	},
+	{
+	"name" : "Sirop de pliglicitol",
+	"id" : "E964"
+	},
+	{
+	"name" : "E966",
+	"id" : "E966"
+	},
+	{
+	"name" : "Lactitol",
+	"id" : "E966"
+	},
+	{
+	"name" : "E967",
+	"id" : "E967"
+	},
+	{
+	"name" : "Xilitol",
+	"id" : "E967"
+	},
+	{
+	"name" : "E969",
+	"id" : "E969"
+	},{
+	"name" : "Advantame",
+	"id" : "E969"
+	},
+	{
+	"name" : "E100ii",
+	"id" : "E100ii"
+	},
+	{
+	"name" : "Turmeric",
+	"id" : "E100ii"
+	},
+    {
+	"name" : "E131",
+	"id" : "E131"
+	},
+	{
+	"name" : "Albastru Patent V",
+	"id" : "E131"
+	},
+	{
+	"name" : "E1400",
+	"id" : "E1400"
+	},
+	{
+	"name" : "Dextrina",
+	"id" : "E1400"
+	},
+	{
+	"name" : "Maltodextrina",
+	"id" : "E1400"
+	},
+	{
+	"name" : "E1520",
+	"id" : "E1520"
+	},
+	{
+	"name" : "Propan 1,2-diol",
+	"id" : "E1520"
+	},
+	{
+	"name" : "Metil diol",
+	"id" : "E1520"
+	},
+	{
+	"name" : "Propilen glicol",
+	"id" : "E1520"
+	},
+	{
+	"name" : "E1517",
+	"id" : "E1517"
+	},
+	{
+	"name" : "Diacetat de gliceril",
+	"id" : "E1517"
+	},
+	{
+	"name" : "Diacetina",
+	"id" : "E1517"
+	},
+	{
+	"name" : "E1519",
+	"id" : "E1519"
+	},
+	{
+	"name" : "Benzil alcool",
+	"id" : "E1519"
+	},
+	{
+	"name" : "E1521",
+	"id" : "E1521"
+	},
+	{
+	"name" : "Polietilen glicol",
+	"id" : "E1521"
+	},
+	{
+	"name" : "E305",
+	"id" : "E305"
+	},
+	{
+	"name" : "Stearat de ascorbil",
+	"id" : "E305"
+	},
+	{
+	"name" : "E332",
+	"id" : "E332"
+	},
+	{
+	"name" : "Citrati de potasiu",
+	"id" : "E332"
+	},
+	{
+	"name" : "E332i",
+	"id" : "E332"
+	},
+	{
+	"name" : "Citrat monopotasic",
+	"id" : "E332"
+	},
+	{
+	"name" : "E332ii",
+	"id" : "E332"
+	},
+	{
+	"name" : "Citrat tripotasic",
+	"id" : "E332"
+	},
+	{
+	"name" : "E333",
+	"id" : "E333"
+	},
+	{
+	"name" : "Citrati de calciu",
+	"id" : "E333"
+	},
+	{
+	"name" : "E333i",
+	"id" : "E333"
+	},
+	{
+	"name" : "Citrat monocalcic",
+	"id" : "E333"
+	},
+	{
+	"name" : "E333ii",
+	"id" : "E333"
+	},
+	{
+	"name" : "Citrat dicalcic",
+	"id" : "E333"
+	},
+	{
+	"name" : "E333iii",
+	"id" : "E333"
+	},
+	{
+	"name" : "Citrat tricalcic",
+	"id" : "E333"
+	},
+	{
+	"name" : "E425",
+	"id" : "E425"
+	},
+	{
+	"name" : "Guma Konjac",
+	"id" : "E425"
+	},
+	{
+	"name" : "E425i",
+	"id" : "E425"
+	},
+	{
+	"name" : "E425ii",
+	"id" : "E425"
+	},
+	{
+	"name" : "Glucomanan de konjak",
+	"id" : "E425"
+	},
+	{
+	"name" : "E426",
+	"id" : "E426"
+	},
+	{
+	"name" : "Hemiceluloza de soia",
+	"id" : "E426"
+	},
+    {
+	"name" : "E427",
+	"id" : "E427"
+	},
+	{
+	"name" : "Guma cassia",
+	"id" : "E427"
+	},
+	{
+	"name" : "E462",
+	"id" : "E462"
+	},
+	{
+	"name" : "Etilceluloza",
+	"id" : "E462"
+	},
+	{
+	"name" : "E468",
+	"id" : "E468"
+	},
+	{
+	"name" : "Carboximetil celuloza de sodiu reticulata",
+	"id" : "E468"
+	},
+	{
+	"name" : "Guma de celuloza cu structura reticulata",
+	"id" : "E468"
+	},
+	{
+	"name" : "E473",
+	"id" : "E473"
+	},
+	{
+	"name" : "Esteri ai zaharozei cu acizi grasi",
+	"id" : "E473"
+	},
+	{
+	"name" : "Sucroesteri",
+	"id" : "E473"
+	},
+	{
+	"name" : "E515",
+	"id" : "E515"
+	},
+	{
+	"name" : "Sulfati de potasiu",
+	"id" : "E515"
+	},
+	{
+	"name" : "E515i",
+	"id" : "E515"
+	},
+	{
+	"name" : "Sulfat de potasiu",
+	"id" : "E515"
+	},
+	{
+	"name" : "E515ii",
+	"id" : "E515"
+	},
+	{
+	"name" : "Sulfat acid de potasiu",
+	"id" : "E515"
+	},
+	{
+	"name" : "E586",
+	"id" : "E586"
+	},
+	{
+	"name" : "4-hexilrezorcinol",
+	"id" : "E586"
+	},
+	{
+	"name" : "E650",
+	"id" : "E650"
+	},
+	{
+	"name" : "Acetat de zinc",
+	"id" : "E650"
+	},
+	{
+	"name" : "E904",
+	"id" : "E904"
+	},
+	{
+	"name" : "Shellac",
+	"id" : "E904"
+	},
+	{
+	"name" : "E905",
+	"id" : "E905"
+	},
+	{
+	"name" : "Ceara microcristalina",
+	"id" : "E905"
+	},
+	{
+	"name" : "Parafina",
+	"id" : "E905"
+	},
+	{
+	"name" : "E905a",
+	"id" : "E905a"
+	},
+	{
+	"name" : "Ulei mineral de calitate alimentara",
+	"id" : "E905a"
+	},
+	{
+	"name" : "Ulei mineral alimentar",
+	"id" : "E905a"
+	},
+	{
+	"name" : "E907",
+	"id" : "E907"
+	},
+	{
+	"name" : "Poli-1-decena hidrogenata",
+	"id" : "E907"
+	},
+	{
+	"name" : "E926",
+	"id" : "E926"
+	},
+	{
+	"name" : "Dioxid de clor",
+	"id" : "E926"
+	},
+	{
+	"name" : "Peroxid de clor",
+	"id" : "E926"
+	},
+	{
+	"name" : "E943a",
+	"id" : "E943a"
+	},
+	{
+	"name" : "Butan",
+	"id" : "E943a"
+	},
+	{
+	"name" : "E943b",
+	"id" : "E943b"
+	},
+	{
+	"name" : "Iso-butan",
+	"id" : "E943b"
+	},
+	{
+	"name" : "E944",
+	"id" : "E944"
+	},
+	{
+	"name" : "Propan",
+	"id" : "E944"
+	},
+	{
+	"name" : "E949",
+	"id" : "E949"
+	},
+	{
+	"name" : "Hidrogen",
+	"id" : "E949"
+	},
+	{
+	"name" : "E955",
+	"id" : "E955"
+	},
+	{
+	"name" : "Sucraloza",
+	"id" : "E955"
+	},
+	{
+	"name" : "SucraPlus",
+	"id" : "E955"
+	},
+	{
+	"name" : "Splenda",
+	"id" : "E955"
+	},
+	{
+	"name" : "TGS",
+	"id" : "E955"
+	},
+	{
+	"name" : "Triclorogalactosucroza",
+	"id" : "E955"
+	},
+	{
+	"name" : "E962",
+	"id" : "E962"
+	},
+	{
+	"name" : "Acesulfam",
+	"id" : "E962"
+	},
+	{
+	"name" : "Sare de Aspartam-Acesulfam",
+	"id" : "E962"
+	},
+	{
+	"name" : "E960",
+	"id" : "E960"
+	},
+	{
+	"name" : "Glicozidele derivate din steviol",
+	"id" : "E960"
+	},
+	{
+	"name" : "Glicozide",
+	"id" : "E960"
+	},
+	{
+	"name" : "E961",
+	"id" : "E961"
+	},
+	{
+	"name" : "Neotam",
+	"id" : "E961"
+	},
+	{
+	"name" : "E968",
+	"id" : "E968"
+	},
+	{
+	"name" : "Eritritol",
+	"id" : "E968"
+	},
+	{
+	"name" : "E319",
+	"id" : "E319"
+	},
+	{
+	"name" : "Butilhidrochinona tertiara",
+	"id" : "E319"
+	},
+	{
+	"name" : "Tertbutilhidrochinona",
+	"id" : "E319"
+	},
+	{
+	"name" : "TBHQ",
+	"id" : "E319"
+	},
+	{
+	"name" : "E392",
+	"id" : "E392"
+	},
+	{
+	"name" : "Extracte de rozmarin",
+	"id" : "E392"
+	},
+	{
+	"name" : "Extract de rozmarin",
+	"id" : "E392"
+	}
+
+]
